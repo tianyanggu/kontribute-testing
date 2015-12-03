@@ -1,2 +1,3 @@
+npm install karma
 git bash at C:\Users\Tianyang\Desktop\Kontribute\testing\kontributerino\ionic-testing\tests
 type karma start my.conf.js
