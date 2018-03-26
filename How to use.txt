@@ -1,3 +1,14 @@
-npm install karma
-git bash at C:\Users\Tianyang\Desktop\Kontribute\testing\kontributerino\ionic-testing\tests
-type karma start my.conf.js
+How to Use:
+
+1. Open Command Prompt (CP)
+
+2. Input the following command to CP: npm install karma. 
+	Press Enter.
+
+3. Copy and paste the following into CP: git bash at C:\Users\Tianyang\Desktop\Kontribute\testing\kontributerino\ionic-testing\tests. 
+	Press Enter.
+
+4. Input into CP: karma start my.conf.js
+	Press Enter.
+	
+<End>
